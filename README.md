@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodeSoftGameDev
+- 👀 I’m interested in Scratch
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on Animations / Games
+- 📫 You can message me on Scratch at my profile @CodeSoft_Games
